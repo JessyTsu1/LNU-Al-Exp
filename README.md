@@ -8,4 +8,9 @@
 
 ---
 9-17日更新：
-  作业是迭代加深搜索（IDDFS,Iterative Deepening Depth-first Search）实现8-puzzle，嗯，等把博客整理好之后就写...
+  抱歉a星没做出来...
+  
+  
+---
+9-30更新：
+    假期继续完善吧
