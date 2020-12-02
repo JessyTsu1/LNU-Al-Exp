@@ -1,21 +1,22 @@
-# 辽宁大学人工智能课程实验
-
-
 
 <p align="center">
-	<strong>欢迎来我的博客游玩</strong>
-</p>
-<p align="center">
-	<a href="blog.jessytsui.cn">阑干</a>
+<strong><font size="6"> 辽宁大学人工智能课程实验</font></strong><br/>
+<a href="https://img.shields.io/badge/license-Apache--2.0-blue"><img alt="license" src="https://img.shields.io/badge/license-Apache--2.0-blue"/></a>
+<a href="https://img.shields.io/github/stars/JessyTsu1/LNU-Al-Exp"><img alt="stars" src="https://img.shields.io/github/stars/JessyTsu1/LNU-Al-Exp"></a>
+<a href="https://img.shields.io/badge/PRs-welcome-green"><img alt="PR" src="https://img.shields.io/badge/PRs-welcome-green"></a>
+<a href="https://img.shields.io/badge/build-done-blue"><img alt="Travis CI" src="https://img.shields.io/badge/build-done-blue"/></a>
 </p>
 
+<h1 align="center"><a href="blog.jessytsui.cn" target="_blank">阑干</a></h1>
+
+> 欢迎来我的博客游玩
 
 
 -------------------------------------------------------------------------------
 
 ## 简介
 
-    课程实验其实都很简单没啥好说的。  
+    ![课程](https://github.com/JessyTsu1/LNU-Al-Exp)实验其实都很简单没啥好说的。  
     建议对AI、ML感兴趣的学弟学妹从吴恩达的课程入手，cousera上可以以学生资格申请免费教程。  
     实战可以做做kaggle的项目，可以以Titanic存活、股票预测入门
 
