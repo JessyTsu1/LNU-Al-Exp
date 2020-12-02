@@ -1,10 +1,10 @@
+<h1 align="center"><a href="https://github.com/JessyTsu1/LNU-Al-Exp" target="_blank">辽宁大学人工智能课程实验</a></h1>
 
 <p align="center">
-<strong><font size="6"> 辽宁大学人工智能课程实验</font></strong><br/>
-<a href="https://img.shields.io/badge/license-Apache--2.0-blue"><img alt="license" src="https://img.shields.io/badge/license-Apache--2.0-blue"/></a>
-<a href="https://img.shields.io/github/stars/JessyTsu1/LNU-Al-Exp"><img alt="stars" src="https://img.shields.io/github/stars/JessyTsu1/LNU-Al-Exp"></a>
-<a href="https://img.shields.io/badge/PRs-welcome-green"><img alt="PR" src="https://img.shields.io/badge/PRs-welcome-green"></a>
-<a href="https://img.shields.io/badge/build-done-blue"><img alt="Travis CI" src="https://img.shields.io/badge/build-done-blue"/></a>
+<a href="https://github.com/JessyTsu1/LNU-Al-Exp/issues"><img alt="license" src="https://img.shields.io/badge/license-Apache--2.0-blue"/></a>
+<a href="https://github.com/JessyTsu1/LNU-Al-Exp/issues"><img alt="stars" src="https://img.shields.io/github/stars/JessyTsu1/LNU-Al-Exp"></a>
+<a href="https://github.com/JessyTsu1/LNU-Al-Exp/issues"><img alt="PR" src="https://img.shields.io/badge/PRs-welcome-green"></a>
+<a href="https://github.com/JessyTsu1/LNU-Al-Exp/issues"><img alt="Travis CI" src="https://img.shields.io/badge/build-done-blue"/></a>
 </p>
 
 <h1 align="center"><a href="blog.jessytsui.cn" target="_blank">阑干</a></h1>
